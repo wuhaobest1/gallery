@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Gallery</string>
+    <string name="fav_is_empty">You have no favorite</string>
+    <string name="add_fav">Add Favorite</string>
 </resources>
